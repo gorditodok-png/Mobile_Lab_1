@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Business Card</string>
+    <string name="user_name">Andrey Evdokimov</string>
+    <string name="user_group">Group B23-191-1</string>
+    <string name="user_email">gorditodok@gmail.com</string>
+    <string name="user_telegram">tg: @zcretion</string>
+    <string name="android_logo_content_description">Android Logo</string>
+</resources>
