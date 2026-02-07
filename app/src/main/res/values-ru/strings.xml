@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Моя визитная карточка</string>
+    <string name="user_name">Андрей Евдокимов</string>
+    <string name="user_group">Группа Б23-191-1</string>
+    <string name="user_email">gorditodok@gmail.com</string>
+    <string name="user_telegram">тг: @zcretion</string>
+    <string name="android_logo_content_description">Логотип Андроид</string>
+</resources>
